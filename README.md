@@ -59,6 +59,4 @@ We welcome contributions! Feel free to fork the repo, submit PRs, or report issu
 
 🔗 [Visit the Project on GitHub](https://github.com/Khushijha7/Stock-Market-Analytics-Dashboard---POWER-BI)  
 
----
 
-Let me know if you’d like any tweaks! 🚀
